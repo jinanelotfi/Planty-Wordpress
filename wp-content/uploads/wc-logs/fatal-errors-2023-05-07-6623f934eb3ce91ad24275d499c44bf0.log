@@ -1,0 +1,8 @@
+2023-05-07T18:17:22+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\Planty\wp-includes\class-wpdb.php on line 2431
+
+2023-05-07T18:19:06+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\Planty\wp-includes\class-wpdb.php on line 2431
+
+2023-05-07T18:23:04+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\Planty\wp-content\plugins\woocommerce\src\Internal\Admin\CustomerEffortScoreTracks.php on line 10
+
+2023-05-07T18:25:05+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\Planty\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AllReviews.php on line 44
+

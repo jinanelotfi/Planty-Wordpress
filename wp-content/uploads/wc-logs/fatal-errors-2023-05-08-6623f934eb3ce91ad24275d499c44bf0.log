@@ -1,0 +1,30 @@
+2023-05-08T14:42:02+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\Planty\wp-includes\class-wpdb.php on line 2431
+
+2023-05-08T14:42:52+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\Planty\wp-includes\class-wpdb.php on line 2431
+
+2023-05-08T14:44:35+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\Planty\wp-content\plugins\essential-addons-for-elementor-lite\includes\Template\Content\Product_Grid.php on line 5
+
+2023-05-08T14:47:23+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\Planty\wp-content\plugins\elementor\app\modules\kit-library\data\kits\endpoints\favorites.php on line 7
+
+2023-05-08T14:51:43+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\Planty\wp-content\plugins\woocommerce\src\Internal\Features\FeaturesController.php on line 17
+
+2023-05-08T14:51:51+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\Planty\wp-content\plugins\contact-form-7\modules\really-simple-captcha.php on line 8
+
+2023-05-08T14:51:55+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\Planty\wp-content\plugins\updraftplus\central\bootstrap.php on line 3
+
+2023-05-08T14:52:25+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\Planty\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\ProductOnSale.php on line 39
+
+2023-05-08T15:16:42+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\Planty\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\StoreApi\Authentication.php on line 201
+
+2023-05-08T15:24:15+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\Planty\wp-includes\widgets\class-wp-widget-text.php on line 571
+
+2023-05-08T15:24:44+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\Planty\wp-content\plugins\woocommerce\src\Internal\Admin\Notes\OrderMilestones.php on line 10
+
+2023-05-08T15:24:50+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\Planty\wp-content\themes\kadence\inc\components\custom_header\component.php on line 29
+
+2023-05-08T15:25:43+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\Planty\wp-content\plugins\essential-addons-for-elementor-lite\includes\Elements\Woo_Product_Gallery.php on line 6
+
+2023-05-08T15:45:04+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\Planty\wp-admin\includes\class-wp-filesystem-direct.php on line 82
+
+2023-05-08T16:14:50+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\Planty\wp-admin\includes\class-wp-filesystem-direct.php on line 66
+

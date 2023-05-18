@@ -1,0 +1,14 @@
+2023-05-10T13:19:13+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\Planty\wp-content\plugins\essential-addons-for-elementor-lite\includes\Traits\Ajax_Handler.php on line 14
+
+2023-05-10T14:08:52+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\Planty\wp-includes\functions.php on line 4550
+
+2023-05-10T14:09:03+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\Planty\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\CartOrderSummaryHeadingBlock.php on line 15
+
+2023-05-10T14:09:56+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\Planty\wp-includes\class-wpdb.php on line 2431
+
+2023-05-10T14:13:02+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\Planty\wp-includes\Requests\src\Transport\Curl.php on line 205
+
+2023-05-10T14:13:39+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\Planty\wp-includes\class-wpdb.php on line 2431
+
+2023-05-10T14:15:27+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\Planty\wp-includes\class-wpdb.php on line 2431
+

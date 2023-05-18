@@ -1,0 +1,6 @@
+2023-05-06T09:01:12+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\Planty\wp-content\plugins\contact-form-7\modules\submit.php on line 8
+
+2023-05-06T09:01:42+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\Planty\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\FeaturedCategory.php on line 7
+
+2023-05-06T12:33:43+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\Planty\wp-includes\Requests\src\Transport\Curl.php on line 205
+
